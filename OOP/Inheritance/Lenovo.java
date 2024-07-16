@@ -1,3 +1,5 @@
+package Inheritance;
+
 public class Lenovo extends Laptop{
 
     public String[] games;

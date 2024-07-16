@@ -1,3 +1,5 @@
+package Inheritance;
+
 public class Laptop {
 
     public String model;

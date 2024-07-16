@@ -1,3 +1,5 @@
+package Encapsulation;
+
 public class Tom {
 
     public String name;
